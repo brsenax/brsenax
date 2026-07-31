@@ -18,8 +18,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=brsenax&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brsenax&layout=compact&langs_count=6&theme=dark" alt="Linguagens Mais Usadas" />
+  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=brsenax&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats" />
+  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=brsenax&layout=compact&langs_count=6&theme=dark" alt="Linguagens Mais Usadas" />
 </p>
 
 ---
