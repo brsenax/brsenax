@@ -33,18 +33,6 @@
 
 <br>
 
-## 📊 GitHub Metrics
-
-<p align="center">
-  <img src="./github-metrics.svg" alt="GitHub Metrics de brsenax" width="100%" />
-</p>
-
-<p align="center">
-  <sub>Gerado automaticamente a cada 12h via GitHub Actions — sem depender de servidores externos.</sub>
-</p>
-
-<br>
-
 ## 📫 Contato
 
 <p align="center">
