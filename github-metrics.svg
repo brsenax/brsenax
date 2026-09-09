@@ -31,7 +31,7 @@
         fill="var(--surface-1, #f4f4f2)" stroke="var(--border, #e4e3de)" stroke-width="1"/>
       <text x="75" y="38" text-anchor="middle"
         font-family="-apple-system, Segoe UI, Helvetica, Arial, sans-serif"
-        font-size="26" font-weight="600" fill="var(--text-primary, #1a1a18)">149</text>
+        font-size="26" font-weight="600" fill="var(--text-primary, #1a1a18)">150</text>
       <text x="75" y="62" text-anchor="middle"
         font-family="-apple-system, Segoe UI, Helvetica, Arial, sans-serif"
         font-size="12" fill="var(--text-secondary, #6b6a64)">commits (ano)</text>
